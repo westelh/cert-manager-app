@@ -1,0 +1,6 @@
+apiVersion: v2
+name: cert-manager
+description: ArgoCD application for cert-manager
+type: application
+version: 0.0.1
+appVersion: "1.0"
